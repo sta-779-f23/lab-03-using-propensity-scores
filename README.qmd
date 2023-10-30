@@ -1,6 +1,6 @@
 ---
 title: "Lab 03 - Using Propensity Scores"
-output: github_document
+format: gfm
 author: "Lucy D'Agostino McGowan"
 date: '2022-03-29'
 ---
